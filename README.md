@@ -79,10 +79,11 @@ public class JuanAndres {
 
 <div align="center">
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Andresuky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a2e4a&title_color=e84040&icon_color=e84040&text_color=c8daea)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Andresuky&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a2e4a&title_color=e84040&text_color=c8daea)
+[![Visitas al perfil](https://komarev.com/ghpvc/?username=Andresuky&color=e84040&style=for-the-badge&label=VISITAS+AL+PERFIL)](https://github.com/Andresuky)
 
-![Racha de commits](https://streak-stats.demolab.com?user=Andresuky&theme=tokyonight&hide_border=true&background=1a2e4a&ring=e84040&fire=e84040&currStreakLabel=c8daea)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andresuky&theme=tokyonight&hide_border=true&background=1a2e4a&ring=e84040&fire=e84040&currStreakLabel=c8daea&dates=c8daea&stroke=1a2e4a)](https://github.com/Andresuky)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Andresuky&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Andresuky)
 
 </div>
 
