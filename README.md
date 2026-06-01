@@ -20,7 +20,7 @@
 public class JuanAndres {
 
     String nombre     = "Juan Andrés Ruíz";
-    String ubicacion  = "París, Francia 🇫🇷 → España 🇪🇸";
+    String ubicacion  = "Los Palacios y Villafranca , Sevilla → España 🇪🇸";
     String rol        = "Desarrollador de aplicaciones multiplataforma";
     String contacto   = "ruizcaleron@gmail.com";
 
@@ -28,6 +28,8 @@ public class JuanAndres {
         "Desarrollo de apps",
         "Videojuegos",
         "Nuevas tecnologías"
+        "Ia"
+        "Descubrimiento"
     };
 
     boolean buscandoTrabajo = true; // 👀
