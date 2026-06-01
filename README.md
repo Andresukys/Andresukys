@@ -93,8 +93,10 @@ public class JuanAndres {
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/ruizcaleron@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruizcaleron@gmail.com)
-[![GitHub](https://img.shields.io/badge/Andresuky-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andresuky)
+[![Visitas al perfil](https://komarev.com/ghpvc/?username=Andresukys&color=e84040&style=for-the-badge&label=VISITAS+AL+PERFIL)](https://github.com/Andresukys)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andresuky&theme=tokyonight&hide_border=true&background=1a2e4a&ring=e84040&fire=e84040&currStreakLabel=c8daea&dates=c8daea&stroke=1a2e4a)](https://github.com/Andresuky)
+
 
 </div>
 
