@@ -83,7 +83,6 @@ public class JuanAndres {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andresukys&theme=tokyonight&hide_border=true&background=1a2e4a&ring=e84040&fire=e84040&currStreakLabel=c8daea&dates=c8daea&stroke=1a2e4a)](https://github.com/Andresukys)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Andresukys&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Andresukys)
 
 </div>
 
