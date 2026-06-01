@@ -79,9 +79,8 @@ public class JuanAndres {
 
 <div align="center">
 
-![Estadísticas](https://readme-stats-sigma-ten.vercel.app/api?username=Andresuky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a2e4a&title_color=e84040&icon_color=e84040&text_color=c8daea)
-
-![Lenguajes más usados](https://readme-stats-sigma-ten.vercel.app/api/top-langs/?username=Andresuky&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a2e4a&title_color=e84040&text_color=c8daea)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Andresuky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a2e4a&title_color=e84040&icon_color=e84040&text_color=c8daea)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Andresuky&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a2e4a&title_color=e84040&text_color=c8daea)
 
 ![Racha de commits](https://streak-stats.demolab.com?user=Andresuky&theme=tokyonight&hide_border=true&background=1a2e4a&ring=e84040&fire=e84040&currStreakLabel=c8daea)
 
